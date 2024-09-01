@@ -63,7 +63,7 @@
       34,
       35
     ],
-    "visible_layers": "fffffcf_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 1
   },
   "git": {
@@ -87,7 +87,7 @@
           "pos_x": 0,
           "pos_y": 0,
           "size_x": 1280,
-          "size_y": 720
+          "size_y": 588
         }
       }
     ]
