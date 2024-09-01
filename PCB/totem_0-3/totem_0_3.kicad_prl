@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -63,7 +63,7 @@
       34,
       35
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "fffffc6_ffffffff",
     "zone_display_mode": 1
   },
   "git": {
@@ -88,6 +88,18 @@
           "pos_y": 0,
           "size_x": 1280,
           "size_y": 588
+        }
+      },
+      {
+        "name": "totem_0_3.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 0,
+          "size_x": 1280,
+          "size_y": 720
         }
       }
     ]
